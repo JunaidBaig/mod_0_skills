@@ -1,0 +1,13 @@
+Instance of Fast_Food_Restaurant:Burger_King
+
+Attributes:
+restaurantName: 'Burger King'
+location: ' 2890 Grant line RD, Tracy, CA'
+isHalal: false
+totalCapacity: 25
+currentCapacity: 15
+
+calculateAvailableSeats: 15 - 25 = 10
+getInformation: ('Burger King', '2890 Grant line RD, Tracy, CA')
+changeLocation: '3220 N Tracy Blvd, Tracy,CA'
+changeMeatWholeseller 'Zabiha halal' = is_Halal = true
