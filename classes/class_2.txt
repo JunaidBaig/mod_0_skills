@@ -1,0 +1,17 @@
+Class CoffeeMachine
+
+Attributes:
+
+companyName(string)
+lidType(string)
+color(string)
+maxCapacity(integer)
+waterAmount(intger)
+is_portable(boolean)
+
+Methods:
+
+profile('companyName', "lidType")
+calculateCurrentCapacity(substract water amount from maxCapacity)
+changeColor(modify color)
+changePortable(update is_portable)
