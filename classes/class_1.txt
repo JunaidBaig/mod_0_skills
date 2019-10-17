@@ -1,0 +1,16 @@
+Class Fast_Food_Restaurant
+
+Attributes:
+
+restaurantName(string);
+location(string);
+isHalal (boolean);
+totalCapacity(integer);
+currentCapacity(integer);
+
+Methods:
+
+calculateAvailableSeats( subtracts currentCapacity form totalCapacity)
+getInformation(restaurantName, location)
+changeLocation(modify location)
+changeMeatWholeseller(modify is_Halal)
