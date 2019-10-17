@@ -1,0 +1,17 @@
+Instance of CoffeeMachine (KeurigClassic)
+
+Attributes:
+
+companyName: 'Keurig'
+machineType: 'Stainless steal'
+color: 'Black'
+maxCapacity: 50
+waterAmount: 10
+is_portable: false
+
+Methods:
+
+profile('Keurig', 'Stainless steal')
+calculateCurrentCapacity: 10 - 50 = 40
+changeColor: 'Brown'
+changePortable: is_portable = true
